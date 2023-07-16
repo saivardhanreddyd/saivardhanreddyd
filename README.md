@@ -22,7 +22,7 @@ Skills:
 - 👯 I’m looking to collaborate on Machine Learning 
 - 🤔 I’m looking for help with Machine Learning 
 - 💬 Ask me about Machine Learning 
-- 📫 How to reach me: savardhanreddydendi@gmail.com 
+- 📫 How to reach me: saivardhanreddydendi@gmail.com 
 - 😄 Pronouns: Sai 
 
 
